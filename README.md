@@ -5,3 +5,5 @@ syntax:
 python3 pyWords.py filename keyword keyword ...
 
 It is to be distributed under the GPL.
+
+Any improvements would be greatly appreciated!
